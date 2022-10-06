@@ -1,0 +1,18 @@
+version: "3"
+services:
+    giuliowebsite:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: giuliowebsite:giuliowebsite
+        ports:
+            - "4567:4567"
+        environment:
+            - QT_X11_NO_MITSHM=1
+            - DISPLAY=$DISPLAY
+        container_name: giuliowebsite
+        stdin_open: true
+        tty: true
+        volumes:
+            - "/tmp/.X11-unix:/tmp/.X11-unix:rw"
+            - ".:/home/"
