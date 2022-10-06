@@ -61,8 +61,5 @@ Skills
 
 
 **General topics**
-* *Machine Learning and Deep Learning*: Graph Machine Learning, Computer Vision, Natural Language Processing, Genetic Algorithms,
-Reinforcement Learning
-* *Computer Science*: Databases (DBMS and Data
-Warehouses), Operating Systems (Unix/Linux environment
-and concurrent programming), Compu
+* *Machine Learning and Deep Learning*: Graph Machine Learning, Computer Vision, Natural Language Processing, Genetic Algorithms, Reinforcement Learning
+* *Computer Science*: Databases (DBMS and Data Warehouses), Operating Systems (Unix/Linux environment and concurrent programming), Computer Networks, Cybersecurity, Embedded Systems
