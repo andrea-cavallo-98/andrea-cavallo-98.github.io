@@ -32,61 +32,37 @@ and complex decision making
 
 Work experience
 ======
-* **Cyber-security Data scientist**, Jun 2022 - Present, *Huawei, Munich, Germany*
-  * Machine learning for malware analysis
-  * Representation learning of binary files
-  * Reinforcement-learning aided dynamic analysis of evasive malware
+* **Machine Learning Research Intern**, Apr 2022 - Sep 2022, *Huawei Munich Research Center, Munich, Germany*
+  * Graph Machine Learning for node anomaly detection
+  * Graph Neural Networks on heterophilous graphs
 
-* **Research Intern**, Sep 2021 - Feb 2022, *Huawei, Munich, Germany*    
-  Analyzed the shortcomings of modern malware analysis techniques; Proposed an improvement to
-dynamic malware analysis, leveraging Artificial Intelligence’s capability to deal with complex tasks;
-Transformed binary code extracted from executable binaries into embedding vectors;
-Implemented a working PoC based on Reinforcement Learning.
+* **Computer Vision team member**, Oct 2021 - Jun 2022, *Team PoliTOcean, Turin, Italy*    
+  * Implemented computer vision tasks (line detection, object detection) for an ROV to take part in the international [Mate ROV Competition](https://materovcompetition.org/)
 
-* **Big Data Analyst Intern**, Mar 2019 - Jun 2019, *Technology Reply, Turin, Italy*  
-  Extracted unstructured textual information from bank transfers, collected from heterogeneous
-sources using Spark; Analyzed text with data exploration/visualization approaches; Preprocessed
-and transformed text into a numerical format, using NLP document embedding techniques;
-Implemented clustering methods for semi-supervised class discovery; Developed rule-based and
-machine learning (ML) based classifiers for bank transactions; Assessed models according to KPIs
-defined in agreement with the team; Organized transactions in an OWL ontology for semantic
-queries aimed at user profiling.
+* **Machine Learning team member**, Apr 2020 - Jun 2021, *Team Icarus PoliTo, Turin, Italy*    
+  * Applied Machine Learning algorithms to model the behavior and the parameters of an aircraft
+  * Created Machine Learning models to predict rocket’s trajectory
 
-
-Research projects
-======
-* **Energy-based models (EBM)**, EURECOM Semester project, Mar 2021 – Jun 2021  
-Performed a theoretical study of EBM and comparison with other deep generative models such as
-Variational Autoencoders (VAEs); Compared different Markov chain (MCMC) sampling methods
-from learned data distribution (Langevin dynamics, SGHMC); Successfully implemented a working
-model, fully compliant with mathematical theory.
-* **Graph Convolutional Networks for anomaly detection in financial graphs**, Partnership
-EURECOM-ORACLE Semester project, Oct 2020 - Mar 2021  
-Analyzed the main pitfalls of anomaly detection applied to financial graphs; Performed a
-theoretical analysis of the current state of the art of Graph Convolutional Networks; Implemented
-and compared methods for scalable processing on huge transaction graphs.
+* **Data Analyst**, Jan 2020 - Feb 2020, *WeStudents, Turin, Italy*    
+  * Performed data analysis to improve product design and management
+  * Applied clustering models to analyze customers behavior and improved registration funnel
 
   
 Skills
 ======
-* Machine learning and deep learning
-  * Classification, regression and clustering
-  * Supervised, unsupervised, self-supervised, and semi-supervised learning
-  * NLP, CV, generative modeling, graph ML, RL
-  * Sklearn, PyTorch
 
-* Coding
-  * Python, C, Bash
-  * Git and Agile development
-  * Unix OS and system calls
+**Programming**
+* *Advanced*: Python, C++, SQL
+* *Basic*: Java, JavaScript, C  
 
-* Data management
-  * ETL pipelines
-  * Hadoop and Spark frameworks
-  * RDBMS and SQL, NoSQL
+**Software & Tools**
+* *Advanced*: Pytorch, Numpy, Pandas, MATLAB
+* *Basic*: Hadoop, Spark, React, Git
 
-* Cyber-security
-  * Static and Control-flow Graph analysis
-  * Symbolic execution
-  * Evasive malware
 
+**General topics**
+* *Machine Learning and Deep Learning*: Graph Machine Learning, Computer Vision, Natural Language Processing, Genetic Algorithms,
+Reinforcement Learning
+* *Computer Science*: Databases (DBMS and Data
+Warehouses), Operating Systems (Unix/Linux environment
+and concurrent programming), Compu
