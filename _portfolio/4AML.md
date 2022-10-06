@@ -5,7 +5,9 @@ collection: portfolio
 ---
 
 The first goal of the project is to implement and test BiSeNet, a deep network for semantic segmentation, on Cityscapes.
-Secondly, the projects aims at training the network on a domain-adaptation task. In particular, the network is trained using the labeled GTA5 dataset as source domain and the unlabeled Cityscapes as target domain. A discriminator network is employed to distinguish between the two domains and help in learning meaningful representations
+
+Secondly, the projects aims at training the network on a domain-adaptation task. In particular, the network is trained using the labeled GTA5 dataset as source domain and the unlabeled Cityscapes as target domain. A discriminator network is employed to distinguish between the two domains and help in learning meaningful representations.
+
 In conclusion, the performances of domain adaptation are improved by implementing a pseudo labeling technique. In particular, pseudo labels are generated for the target domain (Cityscapes) and are used for training in the next iteration. 
 
 Check out the repository for the project [here](https://github.com/andrea-cavallo-98/Advanced-Machine-Learning)!
