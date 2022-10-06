@@ -10,13 +10,25 @@ redirect_from:
 {% include base_path %}
 
 
-Below you can find a summary of my career path.
+You can download my CV <a href="../files/Resume.pdf" target="_blank">here</a> or just have a look at it in the following!
 
 Education
 ======
-* **MSc. in Data Science and Engineering**, *EURECOM*, 2020 - 2022 (GPA: 17/20)
-* **MSc. in Data Science and Engineering**, *Polytechnic University of Turin*, 2019 - 2022 (GPA: 110 cum laude/110)
-* **BSc. in Computer Engineering**, *Polytechnic University of Turin*, 2016 - 2019 (GPA: 108/110)
+* **MSc. in Computer Engineering, Artificial Intelligence and Data Analytics**, *Politecnico di Torino*, 2020 - 2022  
+  * Final average: 29.6/30
+  * Relevant courses: Advanced Machine Learning, Deep Natural Language Processing, Machine Learning and Pattern Recognition, Computational Intelligence
+
+* **Alta Scuola Politecnica**, *Politecnico di Torino* and *Politecnico di Milano*, 2020 - 2022  
+  * Program involving the top 150 students from Politecnico di Torino and Politecnico di Milano
+  * Participated to conferences and group activities on innovation, management of change, design
+and complex decision making
+  * Realized a Clinical Decision Support System (NEAR) based on Explainable AI
+
+* **BSc. in Electronic Engineering**, *Politecnico di Torino*, 2017 - 2020 
+  * GPA: 110/110 cum laude
+  * Member of Percorso Giovani Talenti, an excellence program involving the best 200 students inthe university
+
+* **Exchange program**, *University of Georgia*, GA, USA, 2019 
 
 Work experience
 ======
@@ -78,7 +90,3 @@ Skills
   * Symbolic execution
   * Evasive malware
 
-
-Downloads
-======
-Download my CV <a href="../files/CV.pdf" target="_blank">here</a>!

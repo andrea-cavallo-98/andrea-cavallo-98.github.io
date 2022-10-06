@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matteo Bunino"
+title                    : "Andrea Cavallo"
 title_separator          : "-"
-name                     : &name "Matteo Bunino"
-description              : &description "Data scientist and computer engineer"
-url                      : https://matbun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Andrea Cavallo"
+description              : &description "Computer engineer"
+url                      : https://andrea-cavallo-98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "matbun.github.io"
+repository               : "andrea-cavallo-98.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matteo Bunino"
-  avatar           : "profile.jpg"
-  bio              : "Data scientist and computer engineer"
-  location         : "Munich, Germany"
+  name             : "Andrea Cavallo"
+  avatar           : "profile_picture3.jpg"
+  bio              : "Computer engineer"
+  location         : "Turin, Italy"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=uzyGjCUAAAAJ
-  email            : matteo.bunino@gmail.com
+  googlescholar    : 
+  email            : andricav98@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "matbun"
+  github           : "andrea-cavallo-98"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : matteo-bunino-9a0562146/
+  linkedin         : andrea-cavallo-6a619a1a8
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "_matbun"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
