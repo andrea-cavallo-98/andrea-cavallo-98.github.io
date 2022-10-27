@@ -15,18 +15,19 @@ You can download my CV <a href="../files/Resume.pdf" target="_blank">here</a> or
 Education
 ======
 * **MSc. in Computer Engineering, Artificial Intelligence and Data Analytics**, *Politecnico di Torino*, 2020 - 2022  
-  * Final average: 29.6/30
+  * Final grade: 110/110 cum laude, GPA: 29.6/30
+  * Master Thesis: *Graph Neural Networks on heterophilous graphs: performance analysis and new architectures*, supervised by [Prof. Luca Vassio](https://www.telematica.polito.it/member/luca-vassio/), [Dr. Claas Grohnfeldt](https://scholar.google.de/citations?user=wcbFVEQAAAAJ&hl=en), [Michele Russo](https://scholar.google.com/citations?user=5_C0fiQAAAAJ&hl=it) and [Dr. Giulio Lovisotto](https://giuliolovisotto.github.io/)
   * Relevant courses: Advanced Machine Learning, Deep Natural Language Processing, Machine Learning and Pattern Recognition, Computational Intelligence
 
 * **Alta Scuola Politecnica**, *Politecnico di Torino* and *Politecnico di Milano*, 2020 - 2022  
-  * Program involving the top 150 students from Politecnico di Torino and Politecnico di Milano
+  * Excellence program involving the top 150 students from Politecnico di Torino and Politecnico di Milano
   * Participated to conferences and group activities on innovation, management of change, design
 and complex decision making
-  * Realized a Clinical Decision Support System (NEAR) based on Explainable AI
+  * Realized a Clinical Decision Support System (NEAR) based on Explainable AI in collaboration with [Dedalus](https://www.dedalus.com/global/en/), a leading company in software for healthcare
 
 * **BSc. in Electronic Engineering**, *Politecnico di Torino*, 2017 - 2020 
-  * GPA: 110/110 cum laude
-  * Member of Percorso Giovani Talenti, an excellence program involving the best 200 students inthe university
+  * Final grade: 110/110 cum laude, GPA: 29.88/30
+  * Member of Percorso Giovani Talenti, an excellence program involving the best 200 students in the university
 
 * **Exchange program**, *University of Georgia*, GA, USA, 2019 
 
@@ -57,9 +58,13 @@ Skills
 
 **Software & Tools**
 * *Advanced*: Pytorch, Numpy, Pandas, MATLAB
-* *Basic*: Hadoop, Spark, React, Git
+* *Basic*: TensorFlow, Hadoop, Spark, React, Git, LaTeX
 
 
-**General topics**
-* *Machine Learning and Deep Learning*: Graph Machine Learning, Computer Vision, Natural Language Processing, Genetic Algorithms, Reinforcement Learning
+**Main ML and CS topics**
+* *Machine Learning and Deep Learning*: Graph Machine Learning, Explainable AI, Computer Vision, Natural Language Processing
 * *Computer Science*: Databases (DBMS and Data Warehouses), Operating Systems (Unix/Linux environment and concurrent programming), Computer Networks, Cybersecurity, Embedded Systems
+
+**Languages**
+* Italian: native speaker
+* English: IELTS 8.0

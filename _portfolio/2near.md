@@ -1,6 +1,6 @@
 ---
 title: "Explainable AI for clinical decision support"
-excerpt: "NEAR (Neural-imputed Explainable and Adaptive Risk score) is a Clinical Decision Support System that provides a risk score for cardiac events based on neural networks. The impact of different features on the final score is described through the use of SHAP, a tool for explainability of machine learning models"
+excerpt: "NEAR (Neural-imputed Explainable and Adaptive Risk score) is a Clinical Decision Support System that provides a risk score for cardiac events based on neural networks. The impact of different features on the final score is described through the use of SHAP, a tool for explainability of machine learning models."
 collection: portfolio
 ---
 
