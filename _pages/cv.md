@@ -53,12 +53,14 @@ Skills
 ======
 
 **Programming**
-* *Advanced*: Python, C++, SQL
-* *Basic*: Java, JavaScript, C  
+* *Advanced*: Python
+* *Intermediate*: C, C++, SQL
+* *Basic*: Java, JavaScript
 
 **Software & Tools**
-* *Advanced*: Pytorch, Numpy, Pandas, MATLAB
-* *Basic*: TensorFlow, Hadoop, Spark, React, Git, LaTeX
+* *Advanced*: Pytorch, Numpy
+* *Intermediate*: Pandas, MATLAB, LaTeX
+* *Basic*: TensorFlow, Hadoop, Spark, React, Git
 
 
 **Main ML and CS topics**
