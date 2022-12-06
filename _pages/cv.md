@@ -33,6 +33,10 @@ and complex decision making
 
 Work experience
 ======
+
+* **Research Assistant**, Nov 2022 - ongoing, *SmartData@PoliTo, Torino, Italy*
+  * Graph Machine Learning for network traffic analysis
+
 * **Machine Learning Research Intern**, Apr 2022 - Sep 2022, *Huawei Munich Research Center, Munich, Germany*
   * Graph Machine Learning for node anomaly detection
   * Graph Neural Networks on heterophilous graphs
