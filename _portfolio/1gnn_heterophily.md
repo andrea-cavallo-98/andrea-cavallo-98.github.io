@@ -8,4 +8,4 @@ In heterophilous graphs, nodes tend to connect with nodes with different labels 
 
 Moreover, we define and test two new GNN models, GATH and GCNH, that incorporate designs to improve performance on heterophilous graphs. On node classification, the two models achieve competitive results with the state-of-the-art architectures.
 
-You can find more information about the project in my [Master Thesis](http://webthesis.biblio.polito.it/id/eprint/24501).
+You can find more information about the project in my [Master Thesis](http://webthesis.biblio.polito.it/id/eprint/24501) and in [this paper](https://arxiv.org/abs/2212.13202).
