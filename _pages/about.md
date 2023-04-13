@@ -20,4 +20,6 @@ I like analyzing Deep Learning models in details, pointing out their limitations
 
 ## News
 
+**04/2023** Our paper *GCNH: A Simple Method For Representation Learning On Heterophilous Graphs* was accepted at IJCNN 2023.
+
 **11/2022** Our paper [*2-hop Neighbor Class Similarity (2NCS): A graph metric indicative of graph neural network performance*](https://arxiv.org/abs/2212.13202) was accepted at the 3rd Workshop on Graphs and more Complex structures for Learning and Reasoning (GCLR) at AAAI 2023.
