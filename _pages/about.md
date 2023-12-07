@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [TU Delft](https://www.tudelft.nl/) under the supervision of [Elvin Isufi](https://sites.google.com/site/elvinisufihp/). I work on learning and processing over **dynamic (graph) data**.
+I am a PhD student at [TU Delft](https://www.tudelft.nl/) under the supervision of [Dr. Elvin Isufi](https://sites.google.com/site/elvinisufihp/). I work on learning and processing over **dynamic (graph) data**.
 
 Previously, I worked in the [SmartData@PoliTo](https://smartdata.polito.it/) reseach center, where I applied **Graph Machine Learning** techniques to network traffic analysis.
 
