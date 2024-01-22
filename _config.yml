@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrea Cavallo"
 title_separator          : "-"
 name                     : &name "Andrea Cavallo"
-description              : &description "Computer engineer"
+description              : &description "PhD student"
 url                      : https://andrea-cavallo-98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrea-cavallo-98.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrea Cavallo"
   avatar           : "profile_pic1.jpg"
-  bio              : "Computer engineer"
-  location         : "Turin, Italy"
+  bio              : "PhD student"
+  location         : "Delft, Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?hl=it&user=rzuJ5jMAAAAJ
-  email            : andrea.cavallo@polito.it
+  email            : a.cavallo@tudelft.nl
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
