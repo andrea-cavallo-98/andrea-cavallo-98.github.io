@@ -15,8 +15,8 @@ You can download my CV <a href="../files/Resume.pdf" target="_blank">here</a> or
 Education
 ======
 * **PhD Program**, *TU Delft*, 2023 - ongoing
-* Supervisor: [Dr. Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
-* Topic: Learning and processing over dynamic graphs
+  * Supervisor: [Dr. Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
+  * Topic: Learning and processing over dynamic graphs
 
 * **MSc. in Computer Engineering, Artificial Intelligence and Data Analytics**, *Politecnico di Torino*, 2020 - 2022  
   * Final grade: 110/110 cum laude, GPA: 29.6/30
