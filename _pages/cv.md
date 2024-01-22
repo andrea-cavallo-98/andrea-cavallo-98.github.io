@@ -14,6 +14,10 @@ You can download my CV <a href="../files/Resume.pdf" target="_blank">here</a> or
 
 Education
 ======
+* **PhD Program**, *TU Delft*, 2023 - ongoing
+* Supervisor: [Dr. Elvin Isufi](https://sites.google.com/site/elvinisufihp/)
+* Topic: Learning and processing over dynamic graphs
+
 * **MSc. in Computer Engineering, Artificial Intelligence and Data Analytics**, *Politecnico di Torino*, 2020 - 2022  
   * Final grade: 110/110 cum laude, GPA: 29.6/30
   * Master Thesis: *Graph Neural Networks on heterophilous graphs: performance analysis and new architectures*, supervised by [Prof. Luca Vassio](https://www.telematica.polito.it/member/luca-vassio/), [Dr. Claas Grohnfeldt](https://scholar.google.de/citations?user=wcbFVEQAAAAJ&hl=en), [Michele Russo](https://scholar.google.com/citations?user=5_C0fiQAAAAJ&hl=it) and [Dr. Giulio Lovisotto](https://giuliolovisotto.github.io/)
@@ -34,7 +38,7 @@ and complex decision making
 Work experience
 ======
 
-* **Research Assistant**, Nov 2022 - ongoing, *SmartData@PoliTo, Torino, Italy*
+* **Research Assistant**, Nov 2022 - Sep 2023, *SmartData@PoliTo, Torino, Italy*
   * Graph Machine Learning for network traffic analysis
 
 * **Machine Learning Research Intern**, Apr 2022 - Sep 2022, *Huawei Munich Research Center, Munich, Germany*
